@@ -1,9 +1,9 @@
-class routeRequestHandler:
+class RouteRequestHandler:
     
 class MapLoader:
     
-class laneletMap:
+class LaneletMap:
 
-class routePlanner:
+class RoutePlanner:
 
-class pathFinder: 
+class PathFinder: 
