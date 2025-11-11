@@ -2,8 +2,8 @@ import numpy as np
 import open3d as o3d
 
 # Parameters for grid
-x_min, x_max, x_step = 87866, 89021, 1  # X range and step size
-y_min, y_max, y_step = 75051, 75740, 1  # Y range and step size
+x_min, x_max, x_step = 0, 890, 1  # X range and step size
+y_min, y_max, y_step = 0, 757, 1  # Y range and step size
 z_value = 0.0  # Flat surface at z = 0
 
 # Generate 2D grid points
